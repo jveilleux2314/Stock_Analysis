@@ -2,12 +2,12 @@
 Steve's parents stock
 
 
-Overview of Project
+Overview
+
 The purpose of this project was to learn how to work with mass amounts of data and create Macros to give us multiple steps of analyzing this data with the click of a button. We gave Steve's parents a look at not only the one stock they were particularly interested in but also compared it to 11 other stocks with data from two seperate years of activity for each stock. 
 
 Results
-The analysis is well described with screenshots and code (4 pt).
-Summary
+First I had started with the original set of data and analyzed just the DQ stock that Steve's parents were interested in. I created a basic breakdown of the stock to show the daily volume and year return for 2018 of the DQ stock which showed that the DQ stock did not have a positive return for that year. 
 
 
 There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
