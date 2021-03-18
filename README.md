@@ -47,6 +47,9 @@ Since this is macro has combined commands and is more compact compared to the in
 
 My end result was a quicker processing time, user friendly and an easily visualized outcome for all 12 stocks for Steve's parents.
 
+![refactor time](https://user-images.githubusercontent.com/78769464/111570080-041d9080-8772-11eb-98f7-ca085f3d423c.jpg)
+
+
 Advantages/Disadvantages to refactoring:
 
 There are clear advantages to refactoring data such as minimizing run time and getting a result quicker but also cutting down the amount of code the computer has to delegate through. It also minimizes memory space and prevents any lags due to limited memory. It also gives a more compact version to completing it for the other people that want to read the macros you built. The disadvantage is the same situation to compacting it- it may be difficult to follow along with the code if you have an error and to easily pin point where that error is coming from, versus having everything singled out. 
